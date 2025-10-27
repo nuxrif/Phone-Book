@@ -92,7 +92,7 @@ This is a static, client-side app. If you host `contacts.csv` publicly, the data
 
 ## License
 
-MIT (or your preferred license).
+GPL
 
 ---
 
