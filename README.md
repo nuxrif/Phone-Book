@@ -98,5 +98,3 @@ MIT (or your preferred license).
 
 **Credits**
 UI and functionality implemented in a single page with plain JavaScript, inspired by the iOS Contacts look & feel. 
-
-> Tip: Add a short demo GIF/screenshot in your README to show the iOS-style UI, search, and contact sheet in action.
